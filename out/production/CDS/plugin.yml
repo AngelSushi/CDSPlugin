@@ -1,0 +1,8 @@
+name: CDS
+author: AngelSushi
+version: 1.0.0
+main: com.angelsushi.cds.CDS
+commands:
+  cds:
+    usage: /cds help
+    description: Toutes les commandes du plugin Cité des Sables

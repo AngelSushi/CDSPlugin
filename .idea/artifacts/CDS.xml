@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CDS">
+    <output-path>D:/DevUtils/MC/Servers/Server_18/plugins</output-path>
+    <root id="archive" name="CDS.jar">
+      <element id="module-output" name="CDS" />
+      <element id="library" level="project" name="lombok" />
+      <element id="library" level="project" name="mysql-connector-java-6.0.6" />
+    </root>
+  </artifact>
+</component>
